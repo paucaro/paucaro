@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=https%3A%2F%2Fpaucaro.github.io/&style=for-the-badge&url=https%3A%2F%2Fpaucaro.github.io/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/paucaro961?color=1DA1F2&logo=Twitter&style=for-the-badge)][twitter]
-[![Facebook](https://img.shields.io/badge/follow%20%40paula.asto-3-brightgreen?&style=for-the-badge&logo=facebook&color=1877F2)][facebook]
 
 ## I'm a Developer, Youtuber and Noobster! 🤣
 - 🔭 I’m currently working in [Smart Reasons][websiteSR]!
